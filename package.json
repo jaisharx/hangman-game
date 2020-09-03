@@ -1,0 +1,19 @@
+{
+  "name": "hangman-game",
+  "version": "1.0.0",
+  "description": "Hangman Game",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/hangman-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/hangman-game/issues"
+  },
+  "homepage": "https://github.com/jaisharx/hangman-game#readme"
+}
